@@ -11,14 +11,14 @@
 #titulo-menusuperior{
     margin-left: 70px;
     margin-top: 65px;
-    font-size: 60px;
+    font-size: 40px;
     color: white;
 }
 
 #segundo-titulo-do-menusuperior{
     margin-left: 70px;
     margin-top: 12px;
-    font-size: 20px;
+    font-size: 15px;
     color: white;
     padding-bottom: 90px;
 }
@@ -72,21 +72,20 @@
 
 #titulo-complementar{
     margin-top: 230px;
-    margin-left: 95px;
+    margin-left: 65px;
     margin-bottom: 30px;
-    font-size: 40px;
+    font-size: 30px;
     
 }
 
 #texto-complementar{
-    margin-left: 95px;
-    font-size: 24px;
+    margin-left: 65px;
+    font-size: 14px;
     
 }
 
 #imagemsala{
     margin-top: 50px;
-    margin-right: -130px;
     margin-bottom: 50px;
 }
 
@@ -103,7 +102,7 @@
 
 #titulo-formulario{
     margin: 25px;
-    font-size: 22px;
+    font-size: 27px;
     color: white;
     padding-bottom: 10px;
 }
