@@ -116,6 +116,8 @@ input{
     border-radius: 7px;
     padding-left: 20px;
     font-size: 14px;
+    font-family: 'Raleway';
+    font-weight: bolder;
     margin-bottom: 35px;
 }
 
@@ -130,6 +132,7 @@ button{
     margin-top: 50px;
     margin-bottom: 50px;
     font-weight: bolder;
+    font-family: 'Raleway';
     cursor: pointer;
 }
 
